@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default"  "air", "aqua", "contrast", "myskin" , "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "myskin" # "default"  "air", "aqua", "contrast", "myskin" , "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR" # 블로그 사용 언어
-title                    : "수현이의 블로그" # 블로그 타이틀
+title                    : "SooTryAgain" # 블로그 타이틀
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SooHyun Lee"
 description              : "Cheer Up 🗽"
 url                      : "https://lee-soohyun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "유저이름/comments" #댓글 경로 / github name/repository
+repository               : "lee-soohyun/comments" #댓글 경로 / github name/repository
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     :  # 타이틀 옆 로고
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
