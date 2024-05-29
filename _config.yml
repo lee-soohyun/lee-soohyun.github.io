@@ -20,7 +20,7 @@ title                    : "SooTryAgain" # 블로그 타이틀
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SooHyun Lee"
-description              : "Cheer Up 🗽"
+description              : "Cheer Up🗽"
 url                      : "https://lee-soohyun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lee-soohyun/comments" #댓글 경로 / github name/repository
@@ -104,8 +104,8 @@ analytics: # 블로그 접근 경로 확인 코드
 # Site Author / 사이드바 소개 부분
 author:
   name             : "수혀니"
-  avatar           : "/assets/images/profile.jpg"
-  bio              : "Cheer Up🏆"
+  avatar           : "/assets/images/me1.jpg"
+  bio              : "Cheer Up 🗽"
  # location         : "사는 지역"
   
   links:
