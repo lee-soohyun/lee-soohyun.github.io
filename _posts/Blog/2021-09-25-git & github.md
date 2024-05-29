@@ -1,5 +1,5 @@
 ---
-title:  "chapter 1 첫 게시물 예시" 
+title:  "첫 게시물 예시" 
 excerpt: "첫 게시물 예시"
 
 categories:
