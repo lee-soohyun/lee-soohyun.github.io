@@ -1,9 +1,9 @@
 ---
-title:  "내 피 땀 눈물이 들어간 블로그를 만들며"
+title:  "항상 배우려는 자세로 열심히💙"
 permalink: /about/
 layout: single
 published: true
-date: 2021-09-25
+date: 2024-06-01
 categories:
   - Blog
 tags:
@@ -18,5 +18,3 @@ tags:
 2. 블로그를 운영하는 각오나 방향성에 대하여 작성한다. 
 
 3. 나란 사람은 어떤 사람이다! 라고 작성한다 
-
-등등~~
