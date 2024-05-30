@@ -24,7 +24,7 @@ description              : "Cheer Up🗽"
 url                      : "https://lee-soohyun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lee-soohyun/comments" #댓글 경로 / github name/repository
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/logo.io/favicon-32x32.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     :  # 타이틀 옆 로고
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -97,7 +97,7 @@ social:
 analytics: # 블로그 접근 경로 확인 코드 
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-169251732-1"
+    tracking_id          : # "UA-169251732-1"
     anonymize_ip         : false # true, false (default)
 
 
@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "as05034@naver.com"
+      url: "https://www.naver.com/as05034@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lee-soohyun"
