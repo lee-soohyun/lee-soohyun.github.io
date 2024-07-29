@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "https://www.mail.naver.com/as05034"
+      url: mailto:as05034@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lee-soohyun"
